@@ -1,0 +1,9 @@
+app:
+  name: my-dsp-rhoai-sklearn-dsp
+  namespace: my-dsp
+  cluster: apps.cap.techlab.netone.co.jp
+  user: admin
+
+git:
+  branch: main
+  repo: https://github.com/nos-og/my-dsp-rhoai-sklearn
